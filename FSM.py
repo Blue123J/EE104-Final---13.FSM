@@ -1,4 +1,4 @@
-# Given a Finite State Machine FSM, write a Python test code to test that FSM (10 points)
+# 13. Given a Finite State Machine FSM, write a Python test code to test that FSM (10 points)
 # This is similar to a Verilog test bench.
 # First name initial A-F: Your FSM will model a credit card reader. If the credit card number matches a stored number, and the pin matches, then output = 1, else output = 0.
 # First name initial G-M: Your FSM will model a car licence plate reader. If the licence plate matches a stored number, and the car model matches, then gate_open = 1, else gate_open =0.
